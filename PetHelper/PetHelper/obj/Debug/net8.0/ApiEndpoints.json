@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "PetHelper.API.Controllers.PetNameController",
+    "Method": "GetAll",
+    "RelativePath": "api/PetName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetHelper.API.Controllers.PetNameController",
+    "Method": "Create",
+    "RelativePath": "api/PetName",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "PetHelper.Model.PetNameModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetHelper.API.Controllers.PetNameController",
+    "Method": "Update",
+    "RelativePath": "api/PetName",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "PetHelper.Model.PetNameModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetHelper.API.Controllers.PetNameController",
+    "Method": "GetById",
+    "RelativePath": "api/PetName/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetHelper.API.Controllers.PetNameController",
+    "Method": "Delete",
+    "RelativePath": "api/PetName/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
