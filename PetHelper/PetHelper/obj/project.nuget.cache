@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8C7TPhEksY4=",
+  "dgSpecHash": "haeiZ3DTr2g=",
   "success": true,
-  "projectFilePath": "D:\\Project\\PetHelper\\PetHelper\\PetHelper.csproj",
+  "projectFilePath": "D:\\Project\\Pet helper API\\PetHelper_API\\PetHelper\\PetHelper\\PetHelper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pc World\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
     "C:\\Users\\Pc World\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

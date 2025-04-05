@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\PetHelper\\PetHelper\\PetHelper.csproj": {}
+    "D:\\Project\\Pet helper API\\PetHelper_API\\PetHelper\\PetHelper\\PetHelper.csproj": {}
   },
   "projects": {
-    "D:\\Project\\PetHelper\\PetHelper\\PetHelper.csproj": {
+    "D:\\Project\\Pet helper API\\PetHelper_API\\PetHelper\\PetHelper\\PetHelper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\PetHelper\\PetHelper\\PetHelper.csproj",
+        "projectUniqueName": "D:\\Project\\Pet helper API\\PetHelper_API\\PetHelper\\PetHelper\\PetHelper.csproj",
         "projectName": "PetHelper",
-        "projectPath": "D:\\Project\\PetHelper\\PetHelper\\PetHelper.csproj",
+        "projectPath": "D:\\Project\\Pet helper API\\PetHelper_API\\PetHelper\\PetHelper\\PetHelper.csproj",
         "packagesPath": "C:\\Users\\Pc World\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\PetHelper\\PetHelper\\obj\\",
+        "outputPath": "D:\\Project\\Pet helper API\\PetHelper_API\\PetHelper\\PetHelper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
