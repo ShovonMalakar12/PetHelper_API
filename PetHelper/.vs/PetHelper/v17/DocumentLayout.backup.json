@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\Pet helper API\\PetHelper_API\\PetHelper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D756E2EC-B73E-4A82-8E5F-B7824C5D2A5F}|PetHelper\\PetHelper.csproj|d:\\project\\pet helper api\\pethelper_api\\pethelper\\pethelper\\repository\\symptomsnamedetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D756E2EC-B73E-4A82-8E5F-B7824C5D2A5F}|PetHelper\\PetHelper.csproj|solutionrelative:pethelper\\repository\\symptomsnamedetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D756E2EC-B73E-4A82-8E5F-B7824C5D2A5F}|PetHelper\\PetHelper.csproj|d:\\project\\pet helper api\\pethelper_api\\pethelper\\pethelper\\controllers\\symptomsnamedetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D756E2EC-B73E-4A82-8E5F-B7824C5D2A5F}|PetHelper\\PetHelper.csproj|solutionrelative:pethelper\\controllers\\symptomsnamedetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D756E2EC-B73E-4A82-8E5F-B7824C5D2A5F}|PetHelper\\PetHelper.csproj|d:\\project\\pet helper api\\pethelper_api\\pethelper\\pethelper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D756E2EC-B73E-4A82-8E5F-B7824C5D2A5F}|PetHelper\\PetHelper.csproj|solutionrelative:pethelper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D756E2EC-B73E-4A82-8E5F-B7824C5D2A5F}|PetHelper\\PetHelper.csproj|d:\\project\\pet helper api\\pethelper_api\\pethelper\\pethelper\\controllers\\petsymptomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D756E2EC-B73E-4A82-8E5F-B7824C5D2A5F}|PetHelper\\PetHelper.csproj|solutionrelative:pethelper\\controllers\\petsymptomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D756E2EC-B73E-4A82-8E5F-B7824C5D2A5F}|PetHelper\\PetHelper.csproj|d:\\project\\pet helper api\\pethelper_api\\pethelper\\pethelper\\model\\symptomsnamedetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D756E2EC-B73E-4A82-8E5F-B7824C5D2A5F}|PetHelper\\PetHelper.csproj|solutionrelative:pethelper\\model\\symptomsnamedetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D756E2EC-B73E-4A82-8E5F-B7824C5D2A5F}|PetHelper\\PetHelper.csproj|d:\\project\\pet helper api\\pethelper_api\\pethelper\\pethelper\\irepository\\isymptomsnamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D756E2EC-B73E-4A82-8E5F-B7824C5D2A5F}|PetHelper\\PetHelper.csproj|solutionrelative:pethelper\\irepository\\isymptomsnamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D756E2EC-B73E-4A82-8E5F-B7824C5D2A5F}|PetHelper\\PetHelper.csproj|d:\\project\\pet helper api\\pethelper_api\\pethelper\\pethelper\\repository\\petsymptomsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D756E2EC-B73E-4A82-8E5F-B7824C5D2A5F}|PetHelper\\PetHelper.csproj|solutionrelative:pethelper\\repository\\petsymptomsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D756E2EC-B73E-4A82-8E5F-B7824C5D2A5F}|PetHelper\\PetHelper.csproj|d:\\project\\pet helper api\\pethelper_api\\pethelper\\pethelper\\model\\petsymptomsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D756E2EC-B73E-4A82-8E5F-B7824C5D2A5F}|PetHelper\\PetHelper.csproj|solutionrelative:pethelper\\model\\petsymptomsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D756E2EC-B73E-4A82-8E5F-B7824C5D2A5F}|PetHelper\\PetHelper.csproj|d:\\project\\pet helper api\\pethelper_api\\pethelper\\pethelper\\model\\petnamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D756E2EC-B73E-4A82-8E5F-B7824C5D2A5F}|PetHelper\\PetHelper.csproj|solutionrelative:pethelper\\model\\petnamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D756E2EC-B73E-4A82-8E5F-B7824C5D2A5F}|PetHelper\\PetHelper.csproj|d:\\project\\pet helper api\\pethelper_api\\pethelper\\pethelper\\repository\\petnamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D756E2EC-B73E-4A82-8E5F-B7824C5D2A5F}|PetHelper\\PetHelper.csproj|solutionrelative:pethelper\\repository\\petnamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D756E2EC-B73E-4A82-8E5F-B7824C5D2A5F}|PetHelper\\PetHelper.csproj|d:\\project\\pet helper api\\pethelper_api\\pethelper\\pethelper\\controllers\\petnamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D756E2EC-B73E-4A82-8E5F-B7824C5D2A5F}|PetHelper\\PetHelper.csproj|solutionrelative:pethelper\\controllers\\petnamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D756E2EC-B73E-4A82-8E5F-B7824C5D2A5F}|PetHelper\\PetHelper.csproj|d:\\project\\pet helper api\\pethelper_api\\pethelper\\pethelper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D756E2EC-B73E-4A82-8E5F-B7824C5D2A5F}|PetHelper\\PetHelper.csproj|solutionrelative:pethelper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SymptomsNameDetailsController.cs",
+              "DocumentMoniker": "D:\\Project\\Pet helper API\\PetHelper_API\\PetHelper\\PetHelper\\Controllers\\SymptomsNameDetailsController.cs",
+              "RelativeDocumentMoniker": "PetHelper\\Controllers\\SymptomsNameDetailsController.cs",
+              "ToolTip": "D:\\Project\\Pet helper API\\PetHelper_API\\PetHelper\\PetHelper\\Controllers\\SymptomsNameDetailsController.cs",
+              "RelativeToolTip": "PetHelper\\Controllers\\SymptomsNameDetailsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T06:45:01.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SymptomsNameDetailsRepository.cs",
+              "DocumentMoniker": "D:\\Project\\Pet helper API\\PetHelper_API\\PetHelper\\PetHelper\\Repository\\SymptomsNameDetailsRepository.cs",
+              "RelativeDocumentMoniker": "PetHelper\\Repository\\SymptomsNameDetailsRepository.cs",
+              "ToolTip": "D:\\Project\\Pet helper API\\PetHelper_API\\PetHelper\\PetHelper\\Repository\\SymptomsNameDetailsRepository.cs",
+              "RelativeToolTip": "PetHelper\\Repository\\SymptomsNameDetailsRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T06:40:14.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SymptomsNameDetailsModel.cs",
+              "DocumentMoniker": "D:\\Project\\Pet helper API\\PetHelper_API\\PetHelper\\PetHelper\\Model\\SymptomsNameDetailsModel.cs",
+              "RelativeDocumentMoniker": "PetHelper\\Model\\SymptomsNameDetailsModel.cs",
+              "ToolTip": "D:\\Project\\Pet helper API\\PetHelper_API\\PetHelper\\PetHelper\\Model\\SymptomsNameDetailsModel.cs",
+              "RelativeToolTip": "PetHelper\\Model\\SymptomsNameDetailsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T06:36:15.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PetNameRepository.cs",
+              "DocumentMoniker": "D:\\Project\\Pet helper API\\PetHelper_API\\PetHelper\\PetHelper\\Repository\\PetNameRepository.cs",
+              "RelativeDocumentMoniker": "PetHelper\\Repository\\PetNameRepository.cs",
+              "ToolTip": "D:\\Project\\Pet helper API\\PetHelper_API\\PetHelper\\PetHelper\\Repository\\PetNameRepository.cs",
+              "RelativeToolTip": "PetHelper\\Repository\\PetNameRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:32:29.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISymptomsNameRepository.cs",
+              "DocumentMoniker": "D:\\Project\\Pet helper API\\PetHelper_API\\PetHelper\\PetHelper\\IRepository\\ISymptomsNameRepository.cs",
+              "RelativeDocumentMoniker": "PetHelper\\IRepository\\ISymptomsNameRepository.cs",
+              "ToolTip": "D:\\Project\\Pet helper API\\PetHelper_API\\PetHelper\\PetHelper\\IRepository\\ISymptomsNameRepository.cs",
+              "RelativeToolTip": "PetHelper\\IRepository\\ISymptomsNameRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:01:59.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PetSymptomsRepository.cs",
+              "DocumentMoniker": "D:\\Project\\Pet helper API\\PetHelper_API\\PetHelper\\PetHelper\\Repository\\PetSymptomsRepository.cs",
+              "RelativeDocumentMoniker": "PetHelper\\Repository\\PetSymptomsRepository.cs",
+              "ToolTip": "D:\\Project\\Pet helper API\\PetHelper_API\\PetHelper\\PetHelper\\Repository\\PetSymptomsRepository.cs",
+              "RelativeToolTip": "PetHelper\\Repository\\PetSymptomsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T04:59:37.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PetSymptomsController.cs",
+              "DocumentMoniker": "D:\\Project\\Pet helper API\\PetHelper_API\\PetHelper\\PetHelper\\Controllers\\PetSymptomsController.cs",
+              "RelativeDocumentMoniker": "PetHelper\\Controllers\\PetSymptomsController.cs",
+              "ToolTip": "D:\\Project\\Pet helper API\\PetHelper_API\\PetHelper\\PetHelper\\Controllers\\PetSymptomsController.cs",
+              "RelativeToolTip": "PetHelper\\Controllers\\PetSymptomsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T04:58:09.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PetNameController.cs",
+              "DocumentMoniker": "D:\\Project\\Pet helper API\\PetHelper_API\\PetHelper\\PetHelper\\Controllers\\PetNameController.cs",
+              "RelativeDocumentMoniker": "PetHelper\\Controllers\\PetNameController.cs",
+              "ToolTip": "D:\\Project\\Pet helper API\\PetHelper_API\\PetHelper\\PetHelper\\Controllers\\PetNameController.cs",
+              "RelativeToolTip": "PetHelper\\Controllers\\PetNameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:56:50.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\Pet helper API\\PetHelper_API\\PetHelper\\PetHelper\\Program.cs",
+              "RelativeDocumentMoniker": "PetHelper\\Program.cs",
+              "ToolTip": "D:\\Project\\Pet helper API\\PetHelper_API\\PetHelper\\PetHelper\\Program.cs",
+              "RelativeToolTip": "PetHelper\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:40:01.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project\\Pet helper API\\PetHelper_API\\PetHelper\\PetHelper\\appsettings.json",
+              "RelativeDocumentMoniker": "PetHelper\\appsettings.json",
+              "ToolTip": "D:\\Project\\Pet helper API\\PetHelper_API\\PetHelper\\PetHelper\\appsettings.json",
+              "RelativeToolTip": "PetHelper\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-05T15:39:47.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PetNameModel.cs",
+              "DocumentMoniker": "D:\\Project\\Pet helper API\\PetHelper_API\\PetHelper\\PetHelper\\Model\\PetNameModel.cs",
+              "RelativeDocumentMoniker": "PetHelper\\Model\\PetNameModel.cs",
+              "ToolTip": "D:\\Project\\Pet helper API\\PetHelper_API\\PetHelper\\PetHelper\\Model\\PetNameModel.cs",
+              "RelativeToolTip": "PetHelper\\Model\\PetNameModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:37:55.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PetSymptomsModel.cs",
+              "DocumentMoniker": "D:\\Project\\Pet helper API\\PetHelper_API\\PetHelper\\PetHelper\\Model\\PetSymptomsModel.cs",
+              "RelativeDocumentMoniker": "PetHelper\\Model\\PetSymptomsModel.cs",
+              "ToolTip": "D:\\Project\\Pet helper API\\PetHelper_API\\PetHelper\\PetHelper\\Model\\PetSymptomsModel.cs",
+              "RelativeToolTip": "PetHelper\\Model\\PetSymptomsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:37:48.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
